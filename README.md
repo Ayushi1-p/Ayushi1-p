@@ -17,6 +17,12 @@
 
 ---
 
+## 🌐 Portfolio
+
+👉 https://personal-portfolio-10fe60.netlify.app/
+
+---
+
 ## 🚀 Projects
 
 ### 🃏 Memory Game
