@@ -32,7 +32,7 @@ A movie search web app built using API integration.
 
 ## 📊 GitHub Stats
 
-![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushi1-p&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushi1-p&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
